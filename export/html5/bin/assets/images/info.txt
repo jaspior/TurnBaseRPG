@@ -1,0 +1,12 @@
+ADB:
+C:/Users/3dsnc/appdata/Local/Android/Sdk/platform-tools/adb.exe
+
+JARSIGNER:
+C:/Program Files/Android/Android Studio/jre/bin/jarsigner.exe
+
+Keustore:
+keytool -keyalg RSA -genkeypair -alias beatemup -keypass android -keystore beatemup.keystore -storepass android -dname "CN=Android Debug,O=Android,C=US" -validity 9999 -deststoretype pkcs12
+
+
+LOCAL para criação da keystore:
+C:/Program Files/Android/Android Studio/jre/bin/
