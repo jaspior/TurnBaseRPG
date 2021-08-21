@@ -1,4 +1,4 @@
-# Jogue online [aqui](https://github.com/jaspior/TurnBaseRPG)
+# Jogue online [aqui](https://jaspior.github.io/TurnBaseRPG/export/html5/bin/index.html)
 
 # TurnBaseRPG
 
